@@ -1,2 +1,2 @@
-# BankManagement-C
-Console Based Bank Management in C
+# Bank Management
+Console based bank management.
