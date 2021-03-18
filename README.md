@@ -1,2 +1,2 @@
 # Bank Management
-Console based bank management.
+Console based bank management system.
